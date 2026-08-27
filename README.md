@@ -5,6 +5,15 @@ This task focuses on preparing, cleaning, and standardizing the raw **Customer M
 
 ---
 
+## 🛠️ Tools & Technologies Used
+* **Microsoft Excel**
+  * **Data Import & Text to Columns:** Corrected tab-delimited formatting into standard CSV columns.
+  * **Filtering & Sorting:** Identified and resolved 24 blank income records and isolated demographic outliers.
+  * **Find & Replace (`Ctrl + H`):** Standardized non-standard categorical entries across demographic fields.
+  * **Cell Formatting (`Ctrl + 1`):** Converted text-based dates into standard date formats and ensured numeric columns remained unformatted (no currency symbols/commas) for cross-platform compatibility.
+
+---
+
 ## 📂 Deliverables & File Structure
 ```text
 task_1/
